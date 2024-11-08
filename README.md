@@ -1,4 +1,4 @@
-# ASRDS-"DRONA_RAKSHAK" (Research Innovation and Development Organization Inc.)
+# ASRDS - "DRONA_RAKSHAK" (Research Innovation and Development Organization Inc.)
 
 ## WHAT IS ASRDS?
 ASRDS stands for: Autonomous Surveillance and Reconnaissance Drone System and it is a fully autonomous surveillance system that uses a drone and sensors to search and spot intruders over a perimeter.
