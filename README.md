@@ -11,9 +11,15 @@ This system employ:
 
 ## ABOUT THE PROJECT
 ASRDS is a group project developed for [Research Innovation and Development Organization].
-#### Team Members:
+• The ASRDS aims to develop an advanced drone system for military applications, focusing on autonomous surveillance, reconnaissance, and intelligence gathering. This project will leverage cutting-edge technologies in artificial intelligence, machine learning, and drone engineering to enhance situational awareness and operational efficiency in defense scenarios.
+
+• The ASRDS project represents a significant advancement in drone technology for defense applications. By focusing on autonomy, real-time data processing, and secure communication, this system will provide military forces with a powerful tool for modern warfare and intelligence operations.
+
+• I am responsible for coordinating all project activities, ensuring that objectives are met within the established timeline and budget, while maintaining high standards of quality and compliance with defense regulations.
+
+#### Scientific Researcher:
 - **AYUSH SRIVASTAVA** ([LinkedIn](https://www.linkedin.com/in/arushsriv/) - [GitHub](https://github.com/arushriv))
-- **Millunzi Monica** ([LinkedIn](https://www.linkedin.com/in/monica-millunzi-1b70411b1/) - [GitHub](https://github.com/monnieka))
+
 
 ### OVERVIEW
 ![immagine](https://user-images.githubusercontent.com/67196406/166440670-5df8d9de-0e7b-4c6c-b7ed-d3a906639d62.png)
