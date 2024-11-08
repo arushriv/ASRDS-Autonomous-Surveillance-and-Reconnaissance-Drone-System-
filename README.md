@@ -12,7 +12,7 @@ This system employ:
 ## ABOUT THE PROJECT
 ASRDS is a group project developed for [Research Innovation and Development Organization].
 #### Team Members:
-- **AYUSH SRIVASTAVA** ([LinkedIn](https://www.linkedin.com/in/arushriv/) - [GitHub](https://github.com/arusriv))
+- **AYUSH SRIVASTAVA** ([LinkedIn](https://www.linkedin.com/in/arushsriv/) - [GitHub](https://github.com/arusriv))
 - **Millunzi Monica** ([LinkedIn](https://www.linkedin.com/in/monica-millunzi-1b70411b1/) - [GitHub](https://github.com/monnieka))
 ### DEMO VIDEO
 https://user-images.githubusercontent.com/67196406/166443367-cc99dd4c-8b04-48ad-8701-01d4048b12a8.mp4
