@@ -1,4 +1,4 @@
-# ASRDS : Research Innovation and Development Organization 
+# ASRDS : Research Innovation and Development Organization (RIADO Inc.)
 
 ## WHAT IS ASRDS?
 ASRDS stands for: Autonomous Surveillance and Reconnaissance Drone System and it is a fully autonomous surveillance system that uses a drone and sensors to search and spot intruders over a perimeter.
