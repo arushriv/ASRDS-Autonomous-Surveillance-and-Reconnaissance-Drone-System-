@@ -1,6 +1,6 @@
-# ASRDS : Research Innovation and Development Organization (IoT & 3D Project)
+# ASRDS : Research Innovation and Development Organization 
 
-## WHAT IS IT?
+## WHAT IS ASRDS?
 ASRDS stands for: Autonomous Surveillance and Reconnaissance Drone System and it is a fully autonomous surveillance system that uses a drone and sensors to search and spot intruders over a perimeter.
 
 This system employ:
@@ -10,9 +10,9 @@ This system employ:
 - A backend server (Raspberry Pi 1) to handle the users data
 
 ## ABOUT THE PROJECT
-ASRDS is a group project developed for the course of [IoT & 3-D Systems (2023-2024)](https://offertaformativa.unimore.it/corso/insegnamento?cds_cod=20-262&aa_ord_id=2009&pds_cod=20-262-2&aa_off_id=2020&lang=ita&ad_cod=IIM-63&aa_corso=1&fac_id=10005&coorte=2020&anno_corrente=2022&durata=2) done at the [University of Modena and Reggio Emilia](https://www.ingmo.unimore.it/site/en/home.html).
+ASRDS is a group project developed for [Research Innovation and Development Organization].
 #### Team Members:
-- **AYUSH SRIVASTAVA** ([LinkedIn](https://www.linkedin.com/in/arusriv/) - [GitHub](https://github.com/arusriv))
+- **AYUSH SRIVASTAVA** ([LinkedIn](https://www.linkedin.com/in/arushriv/) - [GitHub](https://github.com/arusriv))
 - **Millunzi Monica** ([LinkedIn](https://www.linkedin.com/in/monica-millunzi-1b70411b1/) - [GitHub](https://github.com/monnieka))
 ### DEMO VIDEO
 https://user-images.githubusercontent.com/67196406/166443367-cc99dd4c-8b04-48ad-8701-01d4048b12a8.mp4
