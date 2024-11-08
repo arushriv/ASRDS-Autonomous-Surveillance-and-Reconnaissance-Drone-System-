@@ -1,4 +1,4 @@
-# ASRDS : Research Innovation and Development Organization (RIADO Inc.)
+# ASRDS-"DRONA_RAKSHAK" (Research Innovation and Development Organization Inc.)
 
 ## WHAT IS ASRDS?
 ASRDS stands for: Autonomous Surveillance and Reconnaissance Drone System and it is a fully autonomous surveillance system that uses a drone and sensors to search and spot intruders over a perimeter.
@@ -10,7 +10,6 @@ This system employ:
 - A backend server (Raspberry Pi 1) to handle the users data
 
 ## ABOUT THE PROJECT
-ASRDS is a group project developed for [Research Innovation and Development Organization].
 • The ASRDS aims to develop an advanced drone system for military applications, focusing on autonomous surveillance, reconnaissance, and intelligence gathering. This project will leverage cutting-edge technologies in artificial intelligence, machine learning, and drone engineering to enhance situational awareness and operational efficiency in defense scenarios.
 
 • The ASRDS project represents a significant advancement in drone technology for defense applications. By focusing on autonomy, real-time data processing, and secure communication, this system will provide military forces with a powerful tool for modern warfare and intelligence operations.
@@ -26,9 +25,6 @@ ASRDS is a group project developed for [Research Innovation and Development Orga
 
 ### FULL ARCHITECTURE
 ![General Architecture@2x(3)](https://user-images.githubusercontent.com/67196406/166441082-ca84c2bb-ade5-4f22-b58d-4cb7b1fb2a07.png)
-
-### COMPANION APP MOCKUP
-![Mockup APP@2x](https://user-images.githubusercontent.com/67196406/166441584-ea44e07b-5d4e-48e7-9d51-3075f1857a11.png)
 
 ### BRIDGE FINITE STATE MACHINE
 ![Bridge FSM@2x(1)](https://user-images.githubusercontent.com/67196406/166441379-1aae2645-e902-43d0-8fbf-e0be87f9716d.png)
