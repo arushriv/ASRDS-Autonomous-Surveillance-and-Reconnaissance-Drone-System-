@@ -12,10 +12,9 @@ This system employ:
 ## ABOUT THE PROJECT
 ASRDS is a group project developed for [Research Innovation and Development Organization].
 #### Team Members:
-- **AYUSH SRIVASTAVA** ([LinkedIn](https://www.linkedin.com/in/arushsriv/) - [GitHub](https://github.com/arusriv))
+- **AYUSH SRIVASTAVA** ([LinkedIn](https://www.linkedin.com/in/arushsriv/) - [GitHub](https://github.com/arushriv))
 - **Millunzi Monica** ([LinkedIn](https://www.linkedin.com/in/monica-millunzi-1b70411b1/) - [GitHub](https://github.com/monnieka))
-### DEMO VIDEO
-https://user-images.githubusercontent.com/67196406/166443367-cc99dd4c-8b04-48ad-8701-01d4048b12a8.mp4
+
 ### OVERVIEW
 ![immagine](https://user-images.githubusercontent.com/67196406/166440670-5df8d9de-0e7b-4c6c-b7ed-d3a906639d62.png)
 
@@ -39,3 +38,6 @@ A full explanation of the project can be found in the 'Project Presentation' fol
 Two set of slides are present:
 - one explaining the general parts of SAURUSS
 - one focusing more on the 3D and Computer Vision of the drone automous flying and intruder detection
+
+### DEMO VIDEO
+https://user-images.githubusercontent.com/67196406/166443367-cc99dd4c-8b04-48ad-8701-01d4048b12a8.mp4
